@@ -1,7 +1,7 @@
 🚀 Idle Master Extended with python
 ===========
-This is just idle master
-but you can run this in python and use python for it
+This is just idle master\
+but you can run this in python and use python for it\
 anyways the requirements and setup is below
 
 Setup:
@@ -20,8 +20,8 @@ Before Running main you must:
 
 Credits:
 
-Vithrn - Created the py scripts
-JonasNilson - Created idle master extended
+Vithrn - Created the py scripts\
+JonasNilson - Created idle master extended\
 jshackles - Created idle master
 
 full info on full credits file
