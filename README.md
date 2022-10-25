@@ -1,4 +1,10 @@
-Before Running main you must
+🚀 Idle Master Extended with python
+===========
+This is just idle master
+but you can run this in python and use python for it
+
+```
+Before Running main you must:
 
 1. Open idlemaster folder
 2. Run "IdleMasterExtended" or "IdleMasterExtended.exe"
@@ -6,6 +12,7 @@ Before Running main you must
 	• https://github.com/JonasNilson/idle_master_extended/wiki/Login-methods
 4. Close IdleMasterExtended
 5. Run main.py
+```
 
 
 Credits:
