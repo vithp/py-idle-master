@@ -1,0 +1,14 @@
+Credits:
+
+
+Vithrn - Created the py scripts
+JonasNilson - Created idle master extended
+jshackles - Created idle master
+
+On Github:
+
+idle master extended - https://github.com/JonasNilson/idle_master_extended
+idle master - https://github.com/jshackles/idle_master
+
+JonasNilson - https://github.com/JonasNilson
+jshackles - https://github.com/jshackles
