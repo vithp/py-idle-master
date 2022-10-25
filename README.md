@@ -2,6 +2,9 @@
 ===========
 This is just idle master
 but you can run this in python and use python for it
+anyways the requirements and setup is below
+
+Setup:
 
 ```
 Before Running main you must:
